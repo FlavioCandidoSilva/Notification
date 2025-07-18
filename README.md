@@ -1,3 +1,3 @@
-# Nest js - boilerplate
+# Nest js
 
-Esqueleto base para qualquer projeto em Nest js com DDD (domain driven design) e clean architecture
+Projeto notification ultilizando DDD
